@@ -5,7 +5,7 @@
     <div class="container">
         <div class="row">
             {% if path_num == 0 %}
-                <form action="/home" method="get">
+                <form action="{% url "index" %}" method="get">
                     <input type="submit" class="btn btn-primary" name="home" value="Return Home"/>
                 </form>
             {% endif %}
