@@ -1,0 +1,30 @@
+{% extends "RipperApp/base.html" %}
+{% load crispy_forms_tags %}
+{% block content %}
+
+    <div class="container">
+        <div class="row">
+            {% if path_num == 0 %}
+                <form action="/home" method="get">
+                    <input type="submit" class="btn btn-primary" name="home" value="Return Home"/>
+                </form>
+            {% endif %}
+
+            <div class="col-md-6">
+                <p>{{ file_name }}</p>
+                {% if path_num != 0 %}
+                    <form method="POST" action="/download/"> {% csrf_token %}
+                        {{ song_form|crispy }} <input type="submit" class="btn btn-primary" value="Download" name="save"
+                                                      id="download"/>
+                    </form>
+
+                    <form action="/next/" method="get">
+                        <input type="submit" class="btn btn-secondary" name="next" value="Next" id="Next"/>
+                    </form>
+                {% endif %}
+            </div>
+
+        </div>
+    </div>
+
+{% endblock content %}

@@ -1,0 +1,30 @@
+{% extends "RipperApp/base.html" %}
+{% load crispy_forms_tags %}
+{% load static %}
+{% block content %}
+
+    <div class="content-section">
+
+        <div class="text-center">
+            <h2>About</h2>
+            <h5>Created by Austin Pearce | <a href="https://github.com/shadowstriker15/">My GitHub</a></h5>
+        </div>
+
+        <br>
+
+        <p><strong>This website was created for the sole educational value of trying out
+            the Django framework.</strong>
+            Album Finder uses Spotify's <a href="https://developer.spotify.com/documentation/web-api/">open API</a> to find album covers from a title and an artist name.
+            This project also makes use of the necessary Python modules <a href="https://spotipy.readthedocs.io/en/2.9.0/">spotipy</a>
+            and <a href="https://eyed3.readthedocs.io/en/latest/">eyed3</a>. Thanks for checking it out!
+        </p>
+
+        <div class="border-top pt-3 text-right">
+            <p class="text-muted">
+                Want to get in contact? <a class="ml-2" href="mailto: austinpearce15@yahoo.com">Send me an email</a>
+            </p>
+        </div>
+
+    </div>
+
+{% endblock content %}

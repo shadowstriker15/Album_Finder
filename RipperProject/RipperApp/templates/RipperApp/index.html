@@ -1,0 +1,65 @@
+{% extends "RipperApp/base.html" %}
+{% load crispy_forms_tags %}
+{% block content %}
+<div class="container">
+    <br>
+
+    <div class="text-center" style="font-family: 'Rubik', sans-serif">
+        <h1>Welcome to Album Finder!</h1>
+    </div>
+
+    <br>
+
+    <div>
+        <p>
+            Album Finder will find the appropriate album cover (and album name) for your mp3 file based
+            on your input for the song's title and artist. Album Finder will attempt to retrieve this
+            data from the provided file and may autofill some of the form's fields. However, please
+            review this data for its accuracy before downloading the file (especially if the artist
+            name is found with only the song title). You have the option to
+            upload your files all at once or individually; either way, once you have uploaded your files,
+            please click the <i>Find Albums</i> button to continue. Album Finder will delete
+            a file from its server after you have downloaded the complete file. Please refrain from
+            uploading more than ten files at a time to prevent overloading the server's free storage.
+            If this storage gets filled, Album Finder will not be able to take anymore uploads until a
+            daily, automatic server task is performed to remove these files.
+        </p>
+
+        <p>
+        <ul>
+            <li>Find a YouTube video with desired song (look for Official Audio for best audio)</li>
+            <li>Use a YouTube ripper to create a downloadable mp3 file (<a href="https://ytmp3.cc/en13/"
+                                                                           target="_blank">Recommended website)</a></li>
+            <li>Upload the mp3 file (or files if multiple songs are downloaded) on Album Finder</li>
+            <li>Click <i>Find Albums</i> to configure the mp3 meta data</li>
+            <li>Once form is filled out, click <i>Download</i> and then <i>Next</i></li>
+            <li>Repeat and enjoy!</li>
+        </ul>
+        </p>
+    </div>
+
+    <br>
+
+    <div class="row">
+        <div class="mx-auto">
+            <form action="{% url "index" %}" method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+            <p>{{ form.non_field_errors }}</p>
+
+            {{ form.docfile.errors }}
+            {{ form|crispy }}
+
+            <p><input type="submit" class="btn btn-primary" value="Upload"/></p>
+            </form>
+
+            <form action="edit" method="get">
+                <input type="submit" class="btn btn-secondary" name="next" value="Find Albums" id="Next"/>
+            </form>
+
+            <br>
+        </div>
+    </div>
+
+</div>
+
+{% endblock content %}

@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06e6c06b-7f60-4add-a7b1-d45e1b9ac394" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RipperProject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/RipperProject/db.sqlite3" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Online_Ripper" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Z8uLLLccN77gR9XD9ssiWBbr1E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/RipperProject/RipperApp/static/RipperApp/img" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\austi\Desktop\Current_Ripper\Online_Ripper\RipperProject\RipperApp\static\RipperApp\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\austi\Desktop\Current_Ripper\Online_Ripper\RipperProject\RipperApp\static\RipperApp\CSS" />
+      <recent name="C:\Users\austi\Desktop\Current_Ripper\Online_Ripper\RipperProject\RipperApp\static\RipperApp\img" />
+      <recent name="C:\Users\austi\Desktop\Current_Ripper\Online_Ripper\RipperProject\RipperApp\static\RipperApp" />
+      <recent name="C:\Users\austi\Projects\Django_Project\RipperProject\RipperApp\templates\RipperApp" />
+      <recent name="C:\Users\austi\Projects\Django_Project\RipperProject\RipperApp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Django_Project" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Django_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Django_Project.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06e6c06b-7f60-4add-a7b1-d45e1b9ac394" name="Default Changelist" comment="" />
+      <created>1584232984511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584232984511</updated>
+      <workItem from="1584232987309" duration="1667000" />
+      <workItem from="1584314953755" duration="2493000" />
+      <workItem from="1584318369670" duration="196000" />
+      <workItem from="1584396374118" duration="12038000" />
+      <workItem from="1584483783660" duration="6546000" />
+      <workItem from="1584566780589" duration="1860000" />
+      <workItem from="1584574799599" duration="3422000" />
+      <workItem from="1584734119786" duration="2459000" />
+      <workItem from="1584739091930" duration="6118000" />
+      <workItem from="1584758900727" duration="4195000" />
+      <workItem from="1584813179833" duration="3624000" />
+      <workItem from="1584822880973" duration="74000" />
+      <workItem from="1584823077529" duration="3708000" />
+      <workItem from="1584831436298" duration="10467000" />
+      <workItem from="1584847804724" duration="11928000" />
+      <workItem from="1584900602108" duration="3655000" />
+      <workItem from="1584906848718" duration="13225000" />
+      <workItem from="1584939649682" duration="83000" />
+      <workItem from="1585008769581" duration="7310000" />
+      <workItem from="1585023374860" duration="962000" />
+      <workItem from="1585166896989" duration="14400000" />
+      <workItem from="1585258555444" duration="3124000" />
+      <workItem from="1585265911450" duration="18374000" />
+      <workItem from="1585326800501" duration="494000" />
+      <workItem from="1585327380072" duration="27061000" />
+      <workItem from="1585607945649" duration="679000" />
+      <workItem from="1585608643150" duration="4349000" />
+      <workItem from="1585785276566" duration="24411000" />
+      <workItem from="1585856394589" duration="19510000" />
+      <workItem from="1585951372568" duration="2921000" />
+      <workItem from="1585962621347" duration="15715000" />
+      <workItem from="1586020807949" duration="20926000" />
+      <workItem from="1586043672929" duration="2000" />
+      <workItem from="1586045656226" duration="2005000" />
+      <workItem from="1586053662772" duration="6601000" />
+      <workItem from="1586105215835" duration="254000" />
+      <workItem from="1586115575653" duration="1059000" />
+      <workItem from="1586120300680" duration="1180000" />
+      <workItem from="1586123553399" duration="4779000" />
+      <workItem from="1586128625516" duration="1726000" />
+      <workItem from="1586133783122" duration="1661000" />
+      <workItem from="1586139662344" duration="246000" />
+      <workItem from="1586140034071" duration="89000" />
+      <workItem from="1586143352414" duration="185000" />
+      <workItem from="1586143579573" duration="834000" />
+      <workItem from="1586153280945" duration="2695000" />
+      <workItem from="1586156773965" duration="592000" />
+      <workItem from="1586158960506" duration="588000" />
+      <workItem from="1586215244161" duration="80000" />
+      <workItem from="1586484561849" duration="5235000" />
+      <workItem from="1587064748695" duration="24000" />
+      <workItem from="1587068914963" duration="2088000" />
+      <workItem from="1587092523457" duration="957000" />
+      <workItem from="1588124271468" duration="1347000" />
+      <workItem from="1588642648038" duration="122000" />
+      <workItem from="1588643379673" duration="1168000" />
+      <workItem from="1588902193636" duration="633000" />
+      <workItem from="1589323684236" duration="765000" />
+      <workItem from="1589403182323" duration="2568000" />
+      <workItem from="1589408882995" duration="1703000" />
+    </task>
+    <task id="LOCAL-00001" summary="Updated - 3/26">
+      <created>1585260946175</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585260946175</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated - 3/26 Adding files">
+      <created>1585266001512</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585266001512</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated - 3/26 Adding files">
+      <created>1585266101564</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585266101564</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updated - 3/26 Adding files">
+      <created>1585266122235</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585266122235</updated>
+    </task>
+    <task id="LOCAL-00005" summary="User authentication added, nav bar added, base template added, progress on album cover download">
+      <created>1585372984423</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585372984423</updated>
+    </task>
+    <task id="LOCAL-00006" summary="User authentication added, nav bar added, base template added, progress on album cover download">
+      <created>1585375178787</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585375178787</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added requirements.txt">
+      <created>1585610362454</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1585610362454</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added requirements.txt">
+      <created>1585610430624</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1585610430624</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Changed requirements.txt">
+      <created>1585613723804</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1585613723804</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added genre model, added about page, adding download hint.">
+      <created>1585795309075</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1585795309075</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Implemented styling, added about page, more work with Spotify api.">
+      <created>1585983986921</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1585983986921</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Find albums implemented, created delete downloads.">
+      <created>1586040081420</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1586040081420</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Clean up code and add comments.">
+      <created>1586043543091</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1586043543091</updated>
+    </task>
+    <task id="LOCAL-00014" summary="New database.">
+      <created>1586047496979</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1586047496979</updated>
+    </task>
+    <task id="LOCAL-00015" summary="No database.">
+      <created>1586053972725</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1586053972725</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Updated homepage helper paragraphs.">
+      <created>1586062913059</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1586062913059</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Updated homepage helper paragraphs - information about lengths of playlists.">
+      <created>1586064964882</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1586064964882</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Updated index.html and about.html.">
+      <created>1586066394613</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1586066394613</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Change index.html">
+      <created>1586105366681</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1586105366681</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Updated how to retrieve album cover (using album name + artist name). Updated index.html in result.">
+      <created>1586116628848</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1586116628849</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Implemented new/better way of retrieving album name and cover from Spotify API.">
+      <created>1586130022068</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1586130022068</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Changed song_edit.html after removing Find Albums implementation.">
+      <created>1586139877692</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1586139877692</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Edited index.html.">
+      <created>1586140094922</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1586140094922</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Added Alternative/Indie genre.">
+      <created>1586143737862</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1586143737862</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Made sure to catch exception if artist has no albums or song is not found in any album.">
+      <created>1586155858927</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1586155858927</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Fixed error in passing the wrong name for artist in find_album.py">
+      <created>1586157344787</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1586157344787</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Fixed error of setting wrong names for album name if album is not found.">
+      <created>1586159527976</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1586159527976</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Removed styling for tables.">
+      <created>1586215301770</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1586215301770</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Drastically improved efficiency with Spotify API in retrieving album name and cover.">
+      <created>1587072121311</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1587072121311</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Prevented youtube_dl from creating cache (which caused some errors).">
+      <created>1588125551993</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1588125551993</updated>
+    </task>
+    <task id="LOCAL-00031" summary="If applicable, removes apostrophes from form input for Spotify's API.">
+      <created>1588644465140</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1588644465140</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="User authentication added, nav bar added, base template added, progress on album cover download" />
+    <MESSAGE value="Added requirements.txt" />
+    <MESSAGE value="Changed requirements.txt" />
+    <MESSAGE value="Added genre model, added about page, adding download hint." />
+    <MESSAGE value="Implemented styling, added about page, more work with Spotify api." />
+    <MESSAGE value="Find albums implemented, created delete downloads." />
+    <MESSAGE value="Clean up code and add comments." />
+    <MESSAGE value="New database." />
+    <MESSAGE value="No database." />
+    <MESSAGE value="Updated homepage helper paragraphs." />
+    <MESSAGE value="Updated homepage helper paragraphs - information about lengths of playlists." />
+    <MESSAGE value="Updated index.html and about.html." />
+    <MESSAGE value="Change index.html" />
+    <MESSAGE value="Updated how to retrieve album cover (using album name + artist name). Updated index.html in result." />
+    <MESSAGE value="Implemented new/better way of retrieving album name and cover from Spotify API." />
+    <MESSAGE value="Changed song_edit.html after removing Find Albums implementation." />
+    <MESSAGE value="Edited index.html." />
+    <MESSAGE value="Added Alternative/Indie genre." />
+    <MESSAGE value="Made sure to catch exception if artist has no albums or song is not found in any album." />
+    <MESSAGE value="Fixed error in passing the wrong name for artist in find_album.py" />
+    <MESSAGE value="Fixed error of setting wrong names for album name if album is not found." />
+    <MESSAGE value="Removed styling for tables." />
+    <MESSAGE value="Drastically improved efficiency with Spotify API in retrieving album name and cover." />
+    <MESSAGE value="Prevented youtube_dl from creating cache (which caused some errors)." />
+    <MESSAGE value="If applicable, removes apostrophes from form input for Spotify's API." />
+    <option name="LAST_COMMIT_MESSAGE" value="If applicable, removes apostrophes from form input for Spotify's API." />
+  </component>
+</project>
